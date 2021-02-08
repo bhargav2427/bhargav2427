@@ -1,4 +1,4 @@
-![bhargav_svg](./images/top.svg)
+![bhargav_svg](./images/top22.svg)
 
 # Hi, I'm Bhargav Akhani
 
