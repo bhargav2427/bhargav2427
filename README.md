@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhargav Akhani</h1>
-<h3 align="center">Full Stack Developer | Python Dev | Graphic Designer</h3>
+<h3 align="center">DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargav2427&label=Profile%20views&color=0e75b6&style=flat" alt="bhargav2427" /> </p>
 
